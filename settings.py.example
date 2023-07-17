@@ -1,0 +1,9 @@
+settings = {
+    "url": "",
+    "headers": {
+        "Accept": "",
+        "User-Agent": ""
+    },
+    "tag": "",
+    "attributes": []
+}
